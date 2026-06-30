@@ -1,0 +1,6 @@
+{
+  "name": "B Natural Gym",
+  "description": "Premium, responsive fitness center website for B Natural Gym (બ નેચરલ જિમ) in Adajan, Surat. Featuring membership plans, modern facilities, interactive BMI calculator, workout programs, and testimonies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
